@@ -3,12 +3,12 @@
 # Settings here will override your global settings in ~/.config/zk/config.sh.
 
 # Your preferred text editor for this notebook.
-# export EDITOR="vim"
+export EDITOR="nvim"
 
 # --- Directory Paths (relative to notebook root) ---
 
 # Directory for daily journal entries.
-# export ZK_JOURNAL_DIR="journal"
+export ZK_JOURNAL_DIR="journal"
 
 # Directory for saved bookmarks.
-# export ZK_BOOKMARK_DIR="resources/bookmarks"
+export ZK_BOOKMARK_DIR="resources/bookmarks"
